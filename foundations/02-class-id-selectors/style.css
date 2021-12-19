@@ -1,0 +1,19 @@
+.pinkey {
+    background-color: #ffa7a7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#big-boy {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+.weighty {
+    font-size: 24px;
+}
+
+#grass {
+    font-weight: bold;
+    background-color: #80ff80;
+    font-size: 24px;
+}
